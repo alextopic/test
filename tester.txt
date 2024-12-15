@@ -1,0 +1,11 @@
+This is just a simple text test for a git repository learning and put in
+the projects/test directory.
+
+Git CLI steps:
+$ git remote add origin https://github.com/alextopic/test.git
+$ git branch -M main
+$ git push -u origin main
+
+Hopefully this will work.
+
+-alextopic
